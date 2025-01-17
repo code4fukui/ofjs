@@ -1,7 +1,7 @@
 import { SimplexNoise2D } from "https://code4fukui.github.io/SimplexNoise/SimplexNoise2D.js";
 //import { PerlinNoise2D } from "https://code4fukui.github.io/PerlinNoise/PerlinNoise2D.js";
 import { Vector2 } from "./Vector2.js";
-import { RandomXorshift } from "./RandomXorshift.js";
+import { RandomXorshift } from "https://code4fukui.github.io/RandomXorshift/RandomXorshift.js";
 
 export const cos = Math.cos;
 export const sin = Math.sin;
